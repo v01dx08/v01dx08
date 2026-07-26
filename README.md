@@ -50,18 +50,6 @@
 - ADB Helper
 - BMI Calculator
 
---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v01dx08&show_icons=true&theme=radical" width="400px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dx08&layout=compact&theme=radical" width="400px" />
-</p>
-
 ---
 
 ⭐ **If you like my work, consider giving a star!** ⭐

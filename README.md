@@ -1,55 +1,19 @@
-<h1 align="center">Hi there, I'm Rudyy Greyrat 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Engineer;Tech+Enthusiast;Anime+%2F+Manga+Lover;High+School+Student" alt="Typing SVG" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Привет, я v01dx08"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-## 🚀 About Me
+<a href="https://github.com/v01dx08/ADB-Helper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-adb-helper-dark.svg"><img src="assets/project-adb-helper-light.svg" width="49%" alt="ADB-Helper"></picture></a>&nbsp;<a href="https://github.com/v01dx08/BMI-Caculator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bmi-caculator-dark.svg"><img src="assets/project-bmi-caculator-light.svg" width="49%" alt="BMI-Caculator"></picture></a>
 
-- 🔭 I’m working on **Jarsoft & XTool**  
-- 🌱 Currently learning **AI Integration, Full-stack Web Development**  
-- 💡 Interested in **Backend Development, Automation, AI, Cybersecurity**  
-- 🎸 Love **Rock music, Anime, Manga, Tech**  
-- 💬 Ask me about **Python, Backend, Databases, APIs**  
-- 📫 Reach me at **mq.rudyy.08@gmail.com**  
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-## 🛠️ Tech Stack
+<a href="https://rudeus.is-a.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Мой сайт"></picture></a>&nbsp;&nbsp;<a href="https://github.com/v01dx08?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Все репозитории"></picture></a>
 
-### 💻 Languages & Frameworks:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.661%" alt=""></picture><a href="https://t.me/v01dx08"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/rudyy_greyrat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.661%" alt=""></picture>
 
-### 🛢️ Databases:
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meilisearch-53A1F5?style=for-the-badge&logo=meilisearch&logoColor=white" />
-</p>
+<a href="https://metawka.github.io/expressive-profile/?from=v01dx08"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-### ⚙️ Tools & Platforms:
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pterodactyl-2B2D42?style=for-the-badge&logo=pterodactyl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aternos-1B1E23?style=for-the-badge&logo=aternos&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🛠️ Some Projects:
-- ADB Helper
-- BMI Calculator
-
----
-
-⭐ **If you like my work, consider giving a star!** ⭐
+</div>
